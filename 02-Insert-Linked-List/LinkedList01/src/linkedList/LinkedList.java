@@ -44,6 +44,7 @@ public class LinkedList {
     }
 
     public void getLength() {
+        System.out.println(length);
     }
 
 }
